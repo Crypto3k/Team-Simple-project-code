@@ -1,0 +1,14 @@
+Needs: 
+We have 4 methods for sorting, 1 for listing the total value of coin collection, we need 4 more methods to do, 3 of them being difficult because I don't think he will count sorting as difficult.
+Sort by Quality, Mint, Denomination, Year
+List total of denominations
+List all coins of particular Quality, Mint, Denomination, Year
+Add methods for sorting
+
+Finished: 
+Coin.java (pic with proof in folder)
+
+Added to: 
+CoinArray (added listeners for sorting, cleaned up unused code)
+
+1 method for displaying total amount of coins from each mint
